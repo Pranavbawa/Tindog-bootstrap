@@ -100,3 +100,13 @@ h3{
 .carousel-item{
   padding: 7% 15%;
 }
+
+/* Card Styling */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.card{
+  padding: ;
+}
